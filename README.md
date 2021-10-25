@@ -16,7 +16,7 @@ Best of all, EU locations mean EU privacy.
 ### Edge Data Center
 Your Raspberry will be installed in our self-developed air-conditioned rack. For this we have also developed our own rack mounts, which are produced by 3D printing.
 
-| <img src="https://pi-colocation.com/images/gallery/pi-colocation-rack.jpg" width=200px> | <img src="https://pi-colocation.com/images/gallery/pi-colocation-rack.jpg" width=200px> | <img src="https://pi-colocation.com/images/gallery/pi-colocation-rack.jpg" width=200px>/Month | 
+| <img src="https://pi-colocation.com/images/gallery/pi-colocation-rack.jpg" width=200px> | <img src="https://pi-colocation.com/images/gallery/pi-colocation-rack.jpg" width=200px> | <img src="https://pi-colocation.com/images/gallery/pi-colocation-wind-turbine.jpg" width=200px>/Month | 
 
 ### Raspberry Pi
 Send us your Raspberry Pi, with or without SSD.
@@ -36,7 +36,7 @@ There is no setup fee.
 
 | Type | Description | Price/Month | Additional Storage Allowed? | Link |
 |---- |------------ |--------- |------------------ |
-| Pi only | Operate your Pi in our Colocation. | $3.99 | No | **[Order now](https://examesh.de/en/instances/pi/colocation/)**
+| Pi only | Operate your Pi in our Colocation. | $3.99 | No | **[Order now](https://examesh.de/en/instances/pi/colocation/)** |
 | Pi with SSD | Operate your Pi with an external USB SSD. Perfect for projects with lots of data. Or to operate a decentralized Bitcoin Full Node, for example. | $5.99 | Yes | **[Order now](https://examesh.de/en/instances/pi/colocation/#p1)** |
 
 ## Configure

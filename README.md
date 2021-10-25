@@ -34,9 +34,10 @@ There is no setup fee.
 
 ### Current Types of Colocations
 
-| Type | Description | Price/Month | Additional Storage Allowed? | 
-| Pi only | Operate your Pi in our Colocation. | $3.99 | No | 
-| Pi with SSD | Operate your Pi with an external USB SSD. Perfect for projects with lots of data. Or to operate a decentralized Bitcoin Full Node, for example. | $5.99 | Yes | 
+| Type | Description | Price/Month | Additional Storage Allowed? | Link |
+|----- |------------ |------------ |---------------------------- |----- |
+| Pi only | Operate your Pi in our Colocation. | $3.99 | No | **[Order now](https://examesh.de/en/instances/pi/colocation/)** |
+| Pi with SSD | Operate your Pi with an external USB SSD. Perfect for projects with lots of data. Or to operate a decentralized Bitcoin Full Node, for example. | $5.99 | Yes | **[Order now](https://examesh.de/en/instances/pi/colocation/#p1)** |
 
 ## Configure
 

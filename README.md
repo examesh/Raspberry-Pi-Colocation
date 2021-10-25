@@ -16,7 +16,7 @@ Best of all, EU locations mean EU privacy.
 ### Edge Data Center
 Your Raspberry will be installed in our self-developed air-conditioned rack. For this we have also developed our own rack mounts, which are produced by 3D printing.
 
-|<img src="https://pi-colocation.com/images/gallery/pi-colocation-rack.jpg" width=200px>|<img src="https://pi-colocation.com/images/gallery/pi-colocation-rack.jpg" width=200px>|<img src="https://pi-colocation.com/images/gallery/pi-colocation-wind-turbine.jpg" width=200px>| 
+<img src="https://pi-colocation.com/images/gallery/pi-colocation-rack.jpg" width=200px> <img src="https://pi-colocation.com/images/gallery/pi-colocation-rack.jpg" width=200px> <img src="https://pi-colocation.com/images/gallery/pi-colocation-wind-turbine.jpg" width=200px>| 
 
 ### Raspberry Pi
 Send us your Raspberry Pi, with or without SSD.

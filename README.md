@@ -30,10 +30,10 @@ Send us your Raspberry Pi and additional hardware.
 ## Booking
 Two simple steps.
 
-### Configure the colocation
+### 1. Configure the colocation
 Configure the colocation according to your needs and pay only for what you need.  Our configurator allows up to 60 different individual colocations through specifications such as rack space or additional sockets.
 
-### Order Colocation
+### 2. Order Colocation
 Click on "Order now" and you will enter the one-page checkout. Fill in your address and select a payment method. ✅ There is no setup fee.
 
 ## Configure your device

@@ -11,7 +11,13 @@ And the best part? The locations are operated 24/7 with green energy. So your Pi
 ### Colocation
 The locations are currently spread all over Germany. In the future, further locations are to follow throughout the EU.
 
-Best of all, EU locations mean EU privacy.
+### Features
+✅ Unlimited traffic
+✅ Public IPv6 address
+✅ No setup fee
+✅ Green energy
+✅ EU Privacy
+✅ Location Germany
 
 ### Edge Data Center
 Your Raspberry will be installed in our self-developed air-conditioned rack. For this we have also developed our own rack mounts, which are produced by 3D printing.
@@ -19,29 +25,19 @@ Your Raspberry will be installed in our self-developed air-conditioned rack. For
 <img src="https://pi-colocation.com/images/gallery/pi-colocation-rack.jpg" width=200px> <img src="https://pi-colocation.com/images/gallery/pi-colocation-rack.jpg" width=200px> <img src="https://pi-colocation.com/images/gallery/pi-colocation-wind-turbine.jpg" width=200px>
 
 ### Raspberry Pi
-Send us your Raspberry Pi, with or without SSD.
+Send us your Raspberry Pi and additional hardware.
 
 ## Booking
 Two simple steps.
 
-### Create Account
-Enter your email address, confirm that you are not a robot ;) and the account will be created for you. A link to confirm the email with your automatically generated password can now be found in your mailbox.
+### Configure the colocation
+Configure the colocation according to your needs and pay only for what you need.  Our configurator allows up to 60 different individual colocations through specifications such as rack space or additional sockets.
 
 ### Order Colocation
-Click on "Order now" and you will enter the one-page checkout. Fill in your address and select a payment method. You can book a colocation with us for as little as $3.99. The minimum term is only six months.
+Click on "Order now" and you will enter the one-page checkout. Fill in your address and select a payment method. ✅ There is no setup fee.
 
-There is no setup fee.
-
-### Current Types of Colocations
-
-| Type | Description | Price/Month | Additional Storage Allowed? | Link |
-|----- |------------ |------------ |---------------------------- |----- |
-| Pi only | Operate your Pi in our Colocation. | $3.99 | No | **[Order now](https://examesh.de/en/instances/pi/colocation/)** |
-| Pi with SSD | Operate your Pi with an external USB SSD. Perfect for projects with lots of data. Or to operate a decentralized Bitcoin Full Node, for example. | $5.99 | Yes | **[Order now](https://examesh.de/en/instances/pi/colocation/#p1)** |
-
-## Configure
-
-After the colocation is booked, you will be automatically redirected to the administration page. There you will find all the necessary information to prepare your Raspberry Pi.
+## Configure your device
+After the colocation is booked, you will find all necessary informations about how to configure your device.
 
 `Please note: Make a backup of your SD card in any case.`
 

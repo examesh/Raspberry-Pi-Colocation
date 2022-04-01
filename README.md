@@ -1,4 +1,14 @@
-**[Raspberry Pi Colocation](https://examesh.de/en/instances/pi/colocation/)** Service Within Our Own Edge Data Centers
+
+**Deprecated!**
+<br>
+**See the successor https://github.com/examesh/Micro-Colocation instead.**
+
+<br>
+<br>
+<br>
+
+
+[Raspberry Pi Colocation](https://examesh.de/en/instances/pi/colocation/) Service Within Our Own Edge Data Centers
 
 
 ## About
